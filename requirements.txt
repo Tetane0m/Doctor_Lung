@@ -9,7 +9,7 @@ et_xmlfile==2.0.0
 exceptiongroup==1.2.2
 flatbuffers==24.3.25
 fonttools==4.55.3
-gast==0.6.0
+gast==0.4.0
 google-pasta==0.2.0
 grpcio==1.68.1
 h11==0.14.0
